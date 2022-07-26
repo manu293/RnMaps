@@ -14,6 +14,7 @@ const DeliveryInfoStyles = StyleSheet.create({
   },
   deliveryInfoContainer_section1: {
     width: '20%',
+    justifyContent: 'center',
   },
   deliveryInfoContainer_section1_imageContainer: {
     borderRadius: 50,
