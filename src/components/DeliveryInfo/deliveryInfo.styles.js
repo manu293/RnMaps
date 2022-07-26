@@ -6,8 +6,7 @@ import {DemoAppTheme} from '../../themes';
 
 const DeliveryInfoStyles = StyleSheet.create({
   deliveryInfoContainer: {
-    paddingTop: 10,
-    paddingBottom: 10,
+    paddingBottom: 4,
     borderBottomColor: DemoAppTheme.colors.black_3,
     borderBottomWidth: 2,
     width: '100%',
